@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191999171573",
+    "project_id": "ly-instagram",
+    "storage_bucket": "ly-instagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191999171573:android:f736e808ed7db613515ebc",
+        "android_client_info": {
+          "package_name": "com.example.ly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191999171573-0hp8h5rsbs4gkk0v3l1b2ea856qqh6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbbSB5LBG_qgRuhdrgPMcMP-4LhN-ktdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191999171573-0hp8h5rsbs4gkk0v3l1b2ea856qqh6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
